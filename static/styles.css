@@ -1,13 +1,41 @@
 /* Your CSS goes here */
-form input {
+p {
+    text-align: center;
+    font-size: 20px;
+}
+
+.form-control {
     background-color: yellow;
+}
+
+.btn {
+    background-color: yellow;
+    color: black;
 }
 
 #lastname {
     font-weight: bold;
 }
 
-div {
+#instruction-text {
     width: 45%;
     border: 2px solid black;
+    margin: 0px auto;
 }
+
+h1 {
+    text-align: center;
+}
+
+
+.container { 
+    position: relative; 
+    top: 0px;
+    left: 140px 
+}
+
+
+
+
+
+
